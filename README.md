@@ -31,4 +31,9 @@
   <img src="https://img.shields.io/static/v1?message=PostgreSQL&logo=postgresql&label=&color=4169E1&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="postgresql logo"  />
   <img src="https://img.shields.io/static/v1?message=Redis&logo=redis&label=&color=DC382D&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="redis logo"  />
   <img src="https://img.shields.io/static/v1?message=Prometheus&logo=prometheus&label=&color=E6522C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="prometheus logo"  />
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Angular&logo=angular&label=&color=DD0031&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="angular logo"  />
+  <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="python logo"  />
+</div>
 </div>
