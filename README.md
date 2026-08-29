@@ -14,12 +14,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ilyarodnov.ilyarodnov&"  />
 </div>
 
-<h2 align="center">🎓 Education</h2>
+<h2 align="center">Education</h2>
 
 <h4 align="center"><a href="https://www.mirea.ru/">RTU MIREA</a></h4>
 <p align="center">Full-stack development · 3rd year</p>
 
-<h2 align="center">🛠 Stack</h2>
+<h2 align="center">Stack</h2>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="docker logo"  />
